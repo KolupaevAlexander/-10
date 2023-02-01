@@ -1,0 +1,15 @@
+C:\Users\307-12\Desktop\Колупаев\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\307-12\Desktop\Колупаев\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\307-12\Desktop\Колупаев\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\307-12\Desktop\Колупаев\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\307-12\Desktop\Колупаев\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-12\Desktop\Колупаев\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\307-12\Desktop\Колупаев\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\307-12\Desktop\Колупаев\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+\\192.168.200.13\pr305a01\пр-21\Колупаев\18.01.2023\Двумерные массивы. Вариант 1\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+\\192.168.200.13\pr305a01\пр-21\Колупаев\18.01.2023\Двумерные массивы. Вариант 1\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+\\192.168.200.13\pr305a01\пр-21\Колупаев\18.01.2023\Двумерные массивы. Вариант 1\obj\Debug\ConsoleApp2.exe
+\\192.168.200.13\pr305a01\пр-21\Колупаев\18.01.2023\Двумерные массивы. Вариант 1\obj\Debug\ConsoleApp2.pdb
+\\192.168.200.13\pr305a01\пр-21\Колупаев\18.01.2023\Двумерные массивы. Вариант 1\bin\Debug\ConsoleApp2.exe.config
+\\192.168.200.13\pr305a01\пр-21\Колупаев\18.01.2023\Двумерные массивы. Вариант 1\bin\Debug\ConsoleApp2.exe
+\\192.168.200.13\pr305a01\пр-21\Колупаев\18.01.2023\Двумерные массивы. Вариант 1\bin\Debug\ConsoleApp2.pdb
